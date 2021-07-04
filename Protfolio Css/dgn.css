@@ -8,13 +8,13 @@ h1 {
 #name {
   color: darkmagenta;
 }
-section {
+.flexible-container {
   display: flex;
   margin-bottom: 100px;
 }
 .half-width {
   width: 50%;
-  padding: 70px;
+  padding: 40px;
   text-align: justify;
   margin-right: 50px;
 }
